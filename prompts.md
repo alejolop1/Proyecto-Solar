@@ -1,4 +1,4 @@
-## Sesión 1: Modelado de Batería (15/Oct)
+## Sesión 1: Zenith angle (15/Oct)
 **Objetivo:** 
 
 **Prompt:** 
